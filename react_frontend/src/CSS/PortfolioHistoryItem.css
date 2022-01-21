@@ -1,0 +1,17 @@
+.history-row p {
+    font-size: 1.2rem;
+    font-weight: 600;
+    width: 16rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.money-invested-text {
+    color: #1B9CC8;
+}
+.unit-value-text {
+    color: #01b92f;
+}
+.no-of-etf-units {
+    font-size: 1.35rem !important;
+}

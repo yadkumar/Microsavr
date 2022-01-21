@@ -1,0 +1,14 @@
+.options-slider{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 3rem;
+}
+
+.specific-opiton-slid{
+    font-size: 12px;
+    flex-wrap: wrap;
+    text-align: center;
+    width: 50px;
+    font-weight: 500;
+}

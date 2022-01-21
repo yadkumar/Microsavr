@@ -1,0 +1,24 @@
+.banner-container{
+    background-color: #232021;
+    height: 6rem;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0 7%;
+    column-gap: 1.5rem;
+}
+
+.logo-size{
+    height: 4rem;
+    margin-right: auto;
+}
+
+.size-control{
+    height: 4rem;
+    cursor: pointer;
+}
+
+.welcome{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 1.6rem;
+}

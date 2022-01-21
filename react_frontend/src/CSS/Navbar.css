@@ -1,0 +1,38 @@
+.navbar-container{
+    justify-content: space-between;
+    margin: 2rem 15%;
+    align-items: center;
+}
+
+.navbar-items{
+    margin: 0 4%;
+    justify-content: space-evenly;
+}
+
+button{
+    font: normal normal 600 1.6rem 'Poppins';
+    border: none;
+    cursor: pointer;
+    height: 4rem;
+    border-radius: 0.4rem;
+}
+
+.navbar-button{
+    background-color: #FFFFFF;
+}
+
+button:hover{
+    background-color: #C0C2CE;
+}
+
+.login{
+    border: 1px solid #D7322D;
+    color: #D7322D;
+    width: 20rem;
+    background-color: transparent;  
+}
+
+.login:hover{
+    background: transparent linear-gradient(111deg, #DA3733 0%, #E06135 100%) 0% 0% no-repeat padding-box;
+    color: #FFFFFF  !important;
+}

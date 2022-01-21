@@ -1,0 +1,88 @@
+.container-reg {
+    display: flex;
+    margin-left: 15%;
+    margin-top: 10%;
+    flex-direction: column;
+    width: 32vw;
+}
+
+.heading-reg {
+    font-weight: 500;
+    font-size: 1.8rem;
+    margin-bottom: 3rem;
+}
+
+.form-reg {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-reg {
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 1rem;
+    padding: 2rem;
+    padding-right: 2.8rem;
+    background-color: #FFFFFF;
+}
+
+.required {
+    color: #FF0000;
+}
+.label-reg {
+    font-size: 1.6rem;
+}
+
+.enter-email {
+    margin-bottom: 1rem;
+}
+
+.input-field-reg {
+    border-color: #EAEAEA;
+    border-style: solid;
+    height: 2.5rem;
+    border-radius: .4rem;
+    font-family: inherit;
+    padding-left: .8rem;
+}
+
+.email-input {
+    width: 100%;
+}
+
+.enter-password {
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+}
+
+.password-input {
+    width: 100%;
+}
+
+.validation-reg {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    color: #DA3733;
+}
+.hide {
+    display: none;
+}
+.show {
+    visibility: visible;
+}
+
+.proceed-btn-reg {
+    font-size: 1.2rem;
+    background: linear-gradient(111deg, #DA3733 0%, #E06135 100%) 0% 0% no-repeat padding-box;
+    color: #FFFFFF;
+    margin-top: 2rem;
+    width: 15rem;
+    height: 3rem;
+    align-self: flex-end;
+    font-weight: 600;
+}
+
+.regError{
+    color: #FF0000;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}

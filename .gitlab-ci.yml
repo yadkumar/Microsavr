@@ -1,0 +1,19 @@
+Build React:
+    script:
+        - cd react_frontend && npm install
+        - yarn build
+        - pm2 kill
+        - pm2 serve build 3000 --spa && pm2 ls
+        - cd ..
+        - cd django_back_end && python3 -m venv env
+        - source env/bin/activate
+        - pip3 install -r requirements.txt 
+        - python3 manage.py makemigrations user
+        - python3 manage.py migrate
+        - python3 manage.py makemigrations risk_profile
+        - python3 manage.py migrate
+        - screen -d -m python3 manage.py runserver 0.0.0.0:8000
+    rules:
+        - if: '$CI_COMMIT_BRANCH == "master"'
+    tags:
+        - smartt-runner

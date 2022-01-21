@@ -1,0 +1,28 @@
+.container {
+    width: 50%;
+}
+
+.container .image-countainer {
+    background-color: #FDF5F3;
+    height: 50px;
+    width: 50px;
+}
+
+.container .image-countainer .reward-img {
+    height: 5rem;
+}
+
+.container .content-container {
+    margin-left: 1.5rem;
+}
+
+.container .content-container .title-text {
+    color: #23202180;
+    font-size: 1rem;
+}
+
+.container .content-container .value-text {
+    color: #232021;
+    font-size: 1.9rem;
+    font-weight: bold;
+}

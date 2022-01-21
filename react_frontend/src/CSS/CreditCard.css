@@ -1,0 +1,131 @@
+.card-list-container{
+    margin-top: 1rem;
+}
+
+.header-modal {
+    justify-content: space-between;
+}
+.close-icon-modal {
+    height: 1.8rem;
+    cursor: pointer;
+}
+.card-details-modal {
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+}
+.card-num-div-modal {
+    margin-right: 6rem;
+}
+.sub-heading-modal {
+    color: #232021;
+    font-weight: 600;
+}
+
+.sub-detail-modal {
+    color: #706F70;
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+.amounts-container {
+    max-width: 41rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.amt-block {
+    align-items: center;
+    padding: 1rem;
+    width: 16rem;
+    height: 4rem;
+    justify-content: left;
+    cursor: pointer;
+}
+.amt-block:hover {
+    background-color: #fff9f9;
+}
+.large-bold {
+    font-size: 2rem;
+    font-weight: 600;
+}
+.min-amt {
+    margin-right: 2rem;
+}
+
+.success-modal{
+    width: 40vw;
+    height: 40vh;
+    align-items: center;
+}
+
+.payment-success{
+    height: 6rem;
+    margin-right: 40%;
+}
+
+.payment-made{
+    font-size: 1.8rem;
+    font-weight: 500;
+    width: 20rem;
+    margin-bottom: 2rem;
+}
+
+.grey-text{
+    color: #23202180;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.reward-points{
+    font-size: 2.4rem;
+    color: #000000;
+    font-weight: 500;
+}
+
+.dolla-sign{
+    height: 3rem;
+}
+
+.header-row{
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.full-amt {
+    margin-left: 2rem;
+}
+.custom-amt {
+    margin: 2rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.dollar {
+    color: #808080;
+    margin-bottom: .26rem;
+    margin-right: .2rem;
+}
+
+.custom-amt-input{
+    border: none;
+    width: 10rem;
+    color: #808080;
+}
+.custom-amt-input:focus {
+    outline: none;
+}
+
+.input-radio[type=radio] {
+    margin-right: 2rem;
+    border: 0px;
+    width: 1.4em;
+    height: 1.4em;
+    cursor: pointer;
+}
+
+.selected {
+    background-color: #FDF5F3;
+    border: none;    
+}
+.unSelected {
+    background-color: none;
+    border: 1px solid #c7c7c7;
+}

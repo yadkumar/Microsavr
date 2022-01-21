@@ -1,0 +1,49 @@
+/* Styles for the random designs on the top left - 
+    DO NOT TOUCH */
+
+.push-back{
+    position: fixed;
+    top: 0;
+    z-index: -1;
+}
+
+.navigate-logo{
+    position: absolute;
+    margin: 2rem 15vw;
+}
+
+.left-top{  
+    position: fixed;
+    top: -11rem;
+    left: -15rem;
+    transform: scale(0.7);
+}
+
+.blob{
+    bottom: -45rem;
+    left: -40rem;
+    position: fixed;
+}
+
+.circle{
+    bottom: 15rem;
+    left: 2rem;
+    position: fixed;
+    pointer-events: none;
+}
+
+.cred-dude-container{
+    height: 100vh;
+    width: 50vw;
+    background-color: #FDF5F3;
+    position: fixed;
+    right: 0;
+    user-select: none;
+    pointer-events: none;
+}
+
+.cred-dude{
+    position: fixed;
+    right: -10rem;
+    transform: scale(0.7);
+}

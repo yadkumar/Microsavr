@@ -1,0 +1,63 @@
+.landing-container{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.ssn-outer-container{
+    justify-content: center;
+    height: 60vh;
+}
+
+.ssn-inner-container{
+    align-self: center;
+    align-items: center;
+    width: 53%;
+}
+
+.ssn-title{
+    width: 57rem;
+    font-size: 3.5rem;
+}
+
+.ssn-input{
+    margin-top: 3rem;
+}
+
+.classic{
+    width: 20rem;
+    height: 4.5rem;
+    background: transparent linear-gradient(111deg, #DA3733 0%, #E06135 100%) 0% 0% no-repeat padding-box;
+    color: #FFFFFF;
+}
+
+.ssn-error{
+    margin-top: 1rem;
+    color: #FF0000;
+}
+
+.reminder{
+    margin-top: 3rem;
+    font-weight: 500;
+    font-size: 1.8rem;
+}
+
+.ssn-input input{
+    width: 27rem;
+    letter-spacing: 0.1rem;
+    font-size: 1.5rem;
+    font-family: "Poppins";
+    font-weight: 600;
+    color: #000000;
+    border: 1px solid #CCCCCC;
+    height: 4.5rem;
+    padding-left: 1rem;
+    border-radius: 0.4rem;
+    outline: none;
+}
+
+::placeholder{
+    opacity: 1;
+    font-weight: normal;
+}

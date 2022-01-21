@@ -1,0 +1,57 @@
+.register-container{
+    margin: 10rem 15vw;
+    width: 32vw;
+}
+
+.align-center{
+    align-self: center;
+
+}
+
+.wrong-ssn{
+    height: 10rem;
+    width: 10rem;;
+}
+
+.invalid-ssn{
+    margin-top: 2rem;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.register{
+    align-items: center;
+}
+
+.text-black{
+    margin-top: 2rem;
+    font-weight: 500;
+    font-size: 2rem;
+    color: #000000;
+}
+
+.continue-reg{
+    margin-top: 5rem;
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-bottom: 2rem;;
+}
+
+.approval{
+    margin-top: 1rem;
+    color: #23202180;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.login-email-pass{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+    align-items: center;
+    font-size: 1.8rem;
+    font-weight: 500;    
+    background: transparent linear-gradient(111deg, #DA3733 0%, #E06135 100%) 0% 0% no-repeat padding-box;
+    color: #FFFFFF;
+}

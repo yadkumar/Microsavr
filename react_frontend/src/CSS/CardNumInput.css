@@ -1,0 +1,21 @@
+.cardNumContainer {
+    display: flex;
+    margin-top: 1.4rem;
+}
+
+.cardNumContainer .cardNumInput {
+    width: 3%;
+    margin-right: 0.3rem;
+    border: none;
+    border-bottom: 1.5px solid black;
+    font-size: 1.8rem;
+    text-align: center;
+}
+
+.cardNumContainer .cardNumInput:nth-child(4n) {
+    margin-right: 1rem;
+}
+
+.cardNumContainer .cardNumInput:focus {
+    outline: none;
+}

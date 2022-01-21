@@ -1,0 +1,48 @@
+.home-button{
+    background-color: transparent;
+    outline: none;
+}
+
+.home-button:hover{
+    background-color: transparent;
+}
+
+.facts-container{
+    border: 0.25px solid #707070;
+    height: 15vh;
+    align-items: center;
+}
+
+.chart-container{
+    justify-content: center;
+}
+
+.column-headings {
+    text-align: left;
+    width: 86rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 5rem;
+}
+.column-headings p {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #23202180;
+    width: 16rem;
+}
+
+/* .column-headings div {
+    flex: 1;
+} */
+.outline hr {
+    border-color: #e0e0e080;
+    width: 100%;
+}
+.history-list {
+    width: 86rem;
+    margin-left: 5rem;
+}
+
+.left-margin {
+    margin-left: 6rem;
+}

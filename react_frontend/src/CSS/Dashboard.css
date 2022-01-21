@@ -1,0 +1,169 @@
+.outermost-container{
+    margin: 2rem 7%;
+    row-gap: 2rem;
+    background: #FFFEFA 0% 0% no-repeat padding-box;
+}
+
+.row-container{
+    column-gap: 2rem;
+}
+
+.left-quad{
+    width: 60%;
+    height: 50%;
+}
+
+.right-quad{
+    flex-grow: 1;
+    width: 36%;
+}
+
+.outline{
+    padding: 1rem 1rem;
+    border: 0.025rem solid #707070;
+    border-radius: 0.5rem;
+}
+
+.reward{
+    row-gap: 1rem;
+}
+
+.card-title{
+    font-weight: 500;
+    font-size: 1.4rem;
+    margin-left: 10px;
+}
+
+.risk-exp{
+    font-weight: 500;
+    font-size: 2rem;
+    margin-left: 3.5rem;
+    margin-right: -2rem;
+}
+
+.gauge-flex{
+    justify-content: space-around;
+    align-items: center;
+}
+
+.manage{
+    background: transparent linear-gradient(113deg, #DA3733 0%, #E06135 100%) 0% 0% no-repeat padding-box;
+    opacity: 0.8;
+    color: #FFFFFF;
+    margin-left: auto;
+}
+
+.reward-points-row1{
+    justify-content: flex-start;
+}
+
+.reward-points-row2 {
+    margin-top: 1rem;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.credit-card-img{
+    width: 20px;
+    height: 20px;
+}
+
+.vertical-dots{
+    width: 13px;
+    height: 13px;
+    margin-top: 3px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.fit-height{
+    height: 1.7rem;
+    margin-right: 1rem;
+}
+
+.header{
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.gift-box{
+    height: 4.5rem;
+}
+
+.text{
+    margin-left: 1rem;
+}
+
+.retake-sizing{
+    width: 30rem;
+}
+
+.person-name{
+    font-size: 2rem;
+    color: #706F70;
+}
+
+.add-card-context {
+    box-shadow: 0px 2px 4px #00000029;
+    border-color: #eeeeee;
+    border: ridge;
+    border-width: 1.6px;
+    background-color: #FFFEFA;
+    padding: 1rem;
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+    cursor: pointer;
+}
+.add-card-context:hover {
+    background-color: #f7f7f7;
+}
+.plus-outline {
+    width: 1.6rem;
+    margin-right: .6rem;
+}
+.add-new-card-dash {
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.etf-container{
+    row-gap: 1rem;
+    align-items: center;
+}
+
+.etf-name{
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.etf-title{
+    color: #23202180;
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+
+.values-money{
+    font-size: 2rem;
+    color: #52B487;
+    font-weight: 600;
+}
+
+.rp-container{
+    align-items: center;
+}
+
+.values-rp{
+    font-size: 2rem;
+    color: #1B9CC8;
+    font-weight: 600;
+}
+
+.ms-currency{
+    height: 1.8rem;
+}
+
+.react-contextmenu--visible {
+    z-index: 1;
+}

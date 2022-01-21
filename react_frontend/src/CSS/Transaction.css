@@ -1,0 +1,32 @@
+.transaction-outer-container{
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.transaction-container{
+    margin-bottom: 0.7rem;
+    margin-top: 0.7rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.credit-card-img-container{
+    width: 4rem;
+    height: 4rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: rgb(247, 245, 245);
+}
+
+.transaction-container .heading{
+    color: slategray;
+    font-weight: 600;
+}
+
+.transaction-container .value{
+    font-weight: 600;
+}

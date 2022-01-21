@@ -1,0 +1,196 @@
+{
+  "cards": [
+    {
+      "card_no": "4012237544551881",
+      "card_type": "Visa",
+      "valid_through": "12/24",
+      "bank_name": "Bank of America",
+      "min_amt_due": 160.00,
+      "total_amt_due": 3000.00
+    },
+    {
+      "card_no": "4556198749161131",
+      "card_type": "Visa",
+      "valid_through": "07/24",
+      "bank_name": "Bank of America",
+      "min_amt_due": 220.00,
+      "total_amt_due": 4000.00
+    },
+    {
+      "card_no": "4716593525906047",
+      "card_type": "Visa",
+      "valid_through": "07/26",
+      "bank_name": "JPMorgan Chase",
+      "min_amt_due": 230.00,
+      "total_amt_due": 4600.00
+    },
+    {
+      "card_no": "4556990348071064",
+      "card_type": "Visa",
+      "valid_through": "07/26",
+      "bank_name": "Citigroup",
+      "min_amt_due": 258.00,
+      "total_amt_due": 5160.00
+    },
+    {
+      "card_no": "4222348797543247",
+      "card_type": "Visa",
+      "valid_through": "05/26",
+      "bank_name": "Bank of America",
+      "min_amt_due": 215.00,
+      "total_amt_due": 4150.00
+    },
+    {
+      "card_no": "5465240574796305",
+      "card_type": "MasterCard",
+      "valid_through": "05/26",
+      "bank_name": "Bank of America",
+      "min_amt_due": 225.00,
+      "total_amt_due": 4550.00
+    },
+    {
+      "card_no": "5497902957541028",
+      "card_type": "MasterCard",
+      "valid_through": "12/28",
+      "bank_name": "Wells Fargo",
+      "min_amt_due": 364.00,
+      "total_amt_due": 6210.00
+    },
+    {
+      "card_no": "5139202597469852",
+      "card_type": "MasterCard",
+      "valid_through": "07/26",
+      "bank_name": "HSBC Bank USA",
+      "min_amt_due": 380.00,
+      "total_amt_due": 7440.00
+    },
+    {
+      "card_no": "5497014594870208",
+      "card_type": "MasterCard",
+      "valid_through": "07/26",
+      "bank_name": "Goldman Sachs",
+      "min_amt_due": 111.00,
+      "total_amt_due": 3165.00
+    },
+    {
+      "card_no": "5105654798120123",
+      "card_type": "MasterCard",
+      "valid_through": "06/26",
+      "bank_name": "JPMorgan Chase",
+      "min_amt_due": 102.00,
+      "total_amt_due": 3220.00
+    },
+    {
+      "card_no": "5018198248469828",
+      "card_type": "Maestro",
+      "valid_through": "06/25",
+      "bank_name": "Citigroup",
+      "min_amt_due": 198.00,
+      "total_amt_due": 4912.00
+    },
+    {
+      "card_no": "6759080835026362",
+      "card_type": "Maestro",
+      "valid_through": "01/24",
+      "bank_name": "Bank of America",
+      "min_amt_due": 288.00,
+      "total_amt_due": 5233.00
+    },
+    {
+      "card_no": "6304295994334502",
+      "card_type": "Maestro",
+      "valid_through": "03/26",
+      "bank_name": "JPMorgan Chase",
+      "min_amt_due": 220.00,
+      "total_amt_due": 4818.00
+    },
+    {
+      "card_no": "6759698712654466",
+      "card_type": "Maestro",
+      "valid_through": "05/25",
+      "bank_name": "Capital One",
+      "min_amt_due": 382.00,
+      "total_amt_due": 7635.00
+    },
+    {
+      "card_no": "5018419008574512",
+      "card_type": "Maestro",
+      "valid_through": "08/25",
+      "bank_name": "Bank of America",
+      "min_amt_due": 261.00,
+      "total_amt_due": 5100.00
+    },
+    {
+      "card_no": "345143248969364",
+      "card_type": "American Express",
+      "valid_through": "08/25",
+      "bank_name": "Bank of America",
+      "min_amt_due": 220.00,
+      "total_amt_due": 4521.00
+    },
+    {
+      "card_no": "345023816305342",
+      "card_type": "American Express",
+      "valid_through": "02/24",
+      "bank_name": "HSBC Bank USA",
+      "min_amt_due": 125.00,
+      "total_amt_due": 3500.00
+    },
+    {
+      "card_no": "374332841424141",
+      "card_type": "American Express",
+      "valid_through": "11/26",
+      "bank_name": "Wells Fargo",
+      "min_amt_due": 280.00,
+      "total_amt_due": 5855.00
+    },
+    {
+      "card_no": "6011745724134527",
+      "card_type": "Discover",
+      "valid_through": "03/24",
+      "bank_name": "Bank of America",
+      "min_amt_due": 232.00,
+      "total_amt_due": 4772.00
+    },
+    {
+      "card_no": "6011057992912034",
+      "card_type": "Discover",
+      "valid_through": "08/25",
+      "bank_name": "Bank of America",
+      "min_amt_due": 220.00,
+      "total_amt_due": 4360.00
+    },
+    {
+      "card_no": "6011996189149169342",
+      "card_type": "Discover",
+      "valid_through": "05/26",
+      "bank_name": "Morgan Stanley Bank",
+      "min_amt_due": 251.00,
+      "total_amt_due": 4946.00
+    },
+    {
+      "card_no": "30437035891603",
+      "card_type": "Diners Club",
+      "valid_through": "05/26",
+      "bank_name": "Morgan Stanley Bank",
+      "min_amt_due": 205.00,
+      "total_amt_due": 4095.00
+    },
+    {
+      "card_no": "30103534956996",
+      "card_type": "Diners Club",
+      "valid_through": "02/24",
+      "bank_name": "Bank of America",
+      "min_amt_due": 221.00,
+      "total_amt_due": 4294.00
+    },
+    {
+      "card_no": "30261328981339",
+      "card_type": "Diners Club",
+      "valid_through": "09/25",
+      "bank_name": "JPMorgan Chase",
+      "min_amt_due": 370.00,
+      "total_amt_due": 7358.00
+    }
+  ]
+}

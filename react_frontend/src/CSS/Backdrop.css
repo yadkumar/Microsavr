@@ -1,0 +1,9 @@
+.background{
+    z-index: -1;
+    position: absolute;
+    margin-top: -15rem;
+    height: 100vh;
+    width: 70%;
+    transform: scale(1.7);
+    margin-left: 23rem;
+}

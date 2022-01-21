@@ -1,0 +1,10 @@
+*/*.pyc
+django_back_end/*/__pycache__/*
+django_back_end/*/migrations/*
+django_back_end/media/*
+django_back_end/.idea/
+django_back_end/db.sqlite3
+django_back_end/requirements.txt
+django_back_end/myvenv
+django_back_end/venv
+react_frontend/node_modules
